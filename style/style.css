@@ -1,0 +1,77 @@
+
+.container-fluid{
+  background-color: DeepSkyBlue;
+  padding: 0 15% 7% 15%;
+
+
+}
+.navbar{
+  background-color: DeepSkyBlue;
+}
+.nav-item {
+  padding: 0 18px;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: GhostWhite;
+}
+.nav-link {
+  font-size: 1rem;
+    color: GhostWhite;
+}
+.navbar a:hover{
+  color: black;
+
+}
+.heading1{
+    font-family: 'Montserrat', sans-serif;
+      font-weight: bold;
+      font-size: 5rem;
+      padding-bottom: 2rem;
+}
+.mid{
+  padding-top: 5rem;
+}
+.firstp{
+  font-family: 'Alata', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+#About{
+  text-align: center;
+  background-color: #fff;
+  padding-top: 2rem;
+  padding-bottom: 10%;
+}
+.aboutp{
+  font-family: 'Alata', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+.concatdiv{
+  text-align:center;
+
+}
+.social-icon {
+  margin: 20px 10px;
+  color: black;
+}
+.emaillink{
+  color: black;
+  font-weight: bold;
+}
+@media (max-width: 1028px) {
+.heading1{
+  font-size: 3rem;
+}
+.aboutp{
+  font-size: 1rem;
+}
+.firstp{
+    font-size: 1rem;
+}
+}
